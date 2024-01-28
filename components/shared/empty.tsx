@@ -17,7 +17,7 @@ const Empty = ({ sm }: EmptyProps) => {
         className="mx-auto"
       />
 
-      <h1 className="text-3xl text-center">Your trash is empty</h1>
+      <h1 className="text-3xl text-center">Empty</h1>
 
       <p className="text-center text-gray-500">
         There is nothing here. Please check again.
